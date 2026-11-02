@@ -1,2 +1,7 @@
+streamlit
+ultralytics
+opencv-python-headless
+numpy
+Pillow
 fastapi
 uvicorn[standard]
